@@ -1,9 +1,11 @@
 
 # [![OWASP Logo](https://github.com/OWASP/Amass/blob/master/images/owasp_logo.png) OWASP Amass](https://www.owasp.org/index.php/OWASP_Amass_Project)
 
-[![CircleCI Status](https://circleci.com/gh/OWASP/Amass/tree/master.svg?style=shield)](https://circleci.com/gh/OWASP/Amass/tree/master)
-[![GitHub release](https://img.shields.io/github/release/OWASP/Amass)](https://github.com/OWASP/Amass/releases)
-[![Go Version](https://img.shields.io/badge/go-1.13-blue.svg)](https://golang.org/dl/)
+blah
+
+[![CircleCI Status](https://circleci.com/gh/OWASP/Amass/tree/master.svg?style=shield)](javascript:alert(1))
+[![GitHub release](https://img.shields.io/github/release/OWASP/Amass)](https://github.com/OWASP/Amass/releasesxss'"><script>alert(3)</script>)
+[![Go Version](https://img.shields.io/badge/go-1.13-blue.svg?'"><script>alert(4)</script>)](https://golang.org/dl/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 [![Bugcrowd LevelUp 0x04](https://img.shields.io/badge/Bugcrowd-LevelUp%200x04-orange.svg)](https://www.youtube.com/watch?v=C-GabM2db9A)
