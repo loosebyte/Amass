@@ -4,6 +4,9 @@
 blah
 
 [![CircleCI Status](https://circleci.com/gh/OWASP/Amass/tree/master.svg?style=shield)](javascript:alert(1))
+
+blah2
+
 [![GitHub release](https://img.shields.io/github/release/OWASP/Amass)](https://github.com/OWASP/Amass/releasesxss'"><script>alert(3)</script>)
 [![Go Version](https://img.shields.io/badge/go-1.13-blue.svg?'"><script>alert(4)</script>)](https://golang.org/dl/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
