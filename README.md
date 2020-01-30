@@ -1,5 +1,8 @@
 
-# [![OWASP Logo](https://github.com/OWASP/Amass/blob/master/images/owasp_logo.png) OWASP Amass](javascript://%0aalert(1))
+# [![OWASP Logo](https://github.com/OWASP/Amass/blob/master/images/owasp_logo.png) OWASP Amass]()
+
+<script>alert(3)</script>
+<img src=x onerror=prompt(1)>
 
 blah
 
